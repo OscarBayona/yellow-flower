@@ -1,0 +1,6 @@
+# Pistas de comparación y archivos personales: solo se publica audio/song.mp3
+audio/options/
+audio/private/
+
+# Originales pesados; la web utiliza las copias optimizadas de images/web
+/images/*.jpg
